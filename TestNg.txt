@@ -1,0 +1,78 @@
+TestNg-13/01/24
+--------------------------------------------
+oder annataion
+priority
+enabled = false'
+invocationCount 
+assert equals - Hard assert ,SoftAssert
+Grouping 
+dataprovider
+
+TestNg 26/01/24
+Listners -- timeout,skipped,
+Listners to suite level to run ass
+
+TestNg 27/01/24
+reurn failure case in automation and manual
+
+-------------------------------------------------------------
+
+2/4/2024
+PARAMeter and implent differernt browser
+
+parallel browser excecution
+prallel method excetion 
+parallel class execution
+
+
+sharathkumar19
+Kumar@19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------
+20/01/24
+
+
+
+Total price--77,000
+total price off 70,000
+downpaid 30,000
+oncash -
+emi-5k
+ceditoffer -
+warrentyclaim-
+free accessories-1500
+free software + Os-ms office + 11 w
+
+o deliveryy---
+
+
+
+
+
